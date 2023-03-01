@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/SirRaivan/react-shop.git",
+  "homepage": "https://github.com/SirRaivan/react-shop/",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
@@ -33,6 +33,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
+    "@jamesives/github-pages-deploy-action": "^4.4.1",
     "css-loader": "^6.7.3",
     "mini-css-extract-plugin": "^2.7.2",
     "sass": "^1.58.2",
